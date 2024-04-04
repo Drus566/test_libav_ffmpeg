@@ -10,7 +10,7 @@
 `g++ main.cpp -o main -lavformat -lavcodec -lavutil`
 
 ### Использование
-./main .\<filename>
+`./main .\<filename>`
 
 ### Использовал 
 * g++.exe (Rev5, Built by MSYS2 project) 13.2.0
